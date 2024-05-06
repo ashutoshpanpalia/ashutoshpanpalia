@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-🛠️ Skills:
-
+🛠️ I research in the field of Robotics
 
 📫 Contact me at: ashutoshpanpalia@gmail.com 
 
