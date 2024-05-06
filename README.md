@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+💼 Professional Experience: https://lucid.app/documents/view/417c84e1-0c97-4bdc-9c8d-997bdbe180f6
 -->
 
 
 🛠️ Skills:
-💼 Professional Experience: https://lucid.app/documents/view/417c84e1-0c97-4bdc-9c8d-997bdbe180f6
+
 
 📫 Contact me at: ashutoshpanpalia@gmail.com 
+
 Follow me at: https://www.linkedin.com/in/ashutosh-panpalia/
