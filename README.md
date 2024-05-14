@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **ashutoshpanpalia/ashutoshpanpalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,7 @@
 I'm a passionate Robotics Engineer with 3+ years of experience in the industry.
 MS Robotics @ University at Buffalo || Ex-Hero MotoCorp Ltd. || IIT Kanpur || DTU(DCE)
 
-## Skills:
+### Skills:
 
 ### Robot Programming (Python, ROS, MATLAB etc.)
 
