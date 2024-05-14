@@ -13,11 +13,11 @@ MS Robotics @ University at Buffalo || Ex-Hero MotoCorp Ltd. || IIT Kanpur || DT
 
 ### Skills:
 
-### Robot Programming (Python, ROS, MATLAB etc.)
+💻 Robot Programming (Python, ROS, MATLAB etc.)
 
-### Control Systems Engineering (Classical control, Modern Control, Digital Control etc.)
+🎯 Control Systems Engineering (Classical control, Modern Control, Digital Control etc.)
 
-### Robot Design (3D Printing, CAD)
+🔨 Robot Design (3D Printing, CAD)
 
 📫 Contact me at: ashutoshpanpalia@gmail.com 
 
