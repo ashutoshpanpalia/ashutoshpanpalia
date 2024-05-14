@@ -8,6 +8,7 @@
 ### 🛠️ Short Story: I build robots
 
 I'm a passionate Robotics Engineer with 3+ years of experience in the industry.
+
 MS Robotics @ University at Buffalo || Ex-Hero MotoCorp Ltd. || IIT Kanpur || DTU(DCE)
 
 ### Skills:
